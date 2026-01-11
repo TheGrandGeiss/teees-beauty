@@ -90,7 +90,7 @@ export default function Home() {
       <nav className='bg-white shadow-sm sticky top-0 z-40'>
         <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between'>
           <h1 className='text-xl sm:text-2xl font-bold text-pink-600 tracking-tight truncate'>
-            Wig-A-Nigga💅
+            Teees Beauty💅
           </h1>
           <button
             onClick={() => setIsCartOpen(!isCartOpen)}
@@ -283,7 +283,7 @@ export default function Home() {
             </div>
           </div>
           <div className='mt-12 text-sm text-gray-500'>
-            &copy; {new Date().getFullYear()} Wig-A-Nigga. All rights reserved.
+            &copy; {new Date().getFullYear()} Teees Beauty. All rights reserved.
           </div>
         </div>
       </footer>
